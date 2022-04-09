@@ -1,0 +1,2 @@
+E:\career\GensisProject\Debug\GensisProject.exe
+E:\career\GensisProject\Debug\GensisProject.pdb
